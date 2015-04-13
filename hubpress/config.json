@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "passionne",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"passionne","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Passionne's blog","url":"https://passionne.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//passionne.github.io/blog/themes/Casper"}}
